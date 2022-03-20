@@ -259,7 +259,7 @@ Il nucleo è avvolto dal *involucro nucleare*, che è formato da una doppia memb
 
 ![Pori nucleari](pori_nucleari.webp)
 
-Il materiale genetico dentro al nucelo non è diviso da membrane, però è comunque organizzato in base alla sua funzione. Ci sono delle zone molto dense nel nucleo chiamate *nucleoli*, che sono usati molto spesso per produrre il RNA ribosomiale (ossia RNA che poi sarà usato dai ribosomi). Questa parte del nucleo è facilmente distinguibile con un microscopio elettronico. Di solito il materiale genetico che deve essere conservato per lungo tempo nel nucelo assuma la forma di una *cromatina*, ossia una fila lineare di materiale genetico, quando però avviene la divisione cellulare la cromatina viene impacchettata nei *cromosomi*, che sono più compatti.
+Il materiale genetico dentro al nucleo non è diviso da membrane, però è comunque organizzato in base alla sua funzione. Ci sono delle zone molto dense nel nucleo chiamate *nucleoli*, che sono usati molto spesso per produrre il RNA ribosomiale (ossia RNA che poi sarà usato dai ribosomi). Questa parte del nucleo è facilmente distinguibile con un microscopio elettronico. Di solito il materiale genetico che deve essere conservato per lungo tempo nel nucleo assuma la forma di una *cromatina*, ossia una fila lineare di materiale genetico, quando però avviene la divisione cellulare la cromatina viene impacchettata nei *cromosomi*, che sono più compatti.
 
 Il nucleo è facilmente vedibile sia con un microscopio ottico che elettronico visto che è grande e anche meno elettrodenso del citoplasma, è anche facilmente colorabile con un colorante che colora gli acidi.
 
