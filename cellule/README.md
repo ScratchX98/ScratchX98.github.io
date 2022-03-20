@@ -285,3 +285,95 @@ L'apparato di Golgi si trova al confine tra il reticolo endoplasmatico e il cito
 Ha una forma molto curiosa, è stretto in mezzo e largo alle estremità, da dove vengono mandate le vescicole di trasporto. Ha una forma molto dinamica ma non scompare mai del tutto. Cellule produttori hanno un apparato di Golgi più sviluppato (come per esempio nelle cellule di tabacco).
 
 ![Struttura dell'apparato di Golgi](golgi.webp)
+
+#### Lisosomi
+Un *lisosoma* è la vescicola di trasporto che producono gli apparati di Golgi e reticoli endoplasmatici. Sono avvolti da una membrana con un diametro di circa 1 µm. Contiene enzimi (proteine, carboidrati, acidi nucleici, e lipidi). Una cellula ne può contenere dozzine. I contenuti del lisosoma è completamente separato chimicamente dal resto del citoplasma.
+
+Gli enzimi dentro al lisosoma vengono usati durante un processo chiamato *fagocitosi*. Un pezzo della membrana plasmatica diventa una bolla contenente nutrienti dall'esterno, chiamato *vacuolo alimentare*. Questo vacuolo e il lisosoma si incontrano e formano un *lisosoma secondario*, dove avviene la digestione. Quando il processo è finito il lisosoma secondario si fonda con la membrana plasmatica.
+
+![Schema del fagocitosi](fagocitosi.webp)
+
+I lisosomi sono anche usati per uccidere batteri danneggianti.
+
+Un'altra cosa che fanno è l'*autofagia*, che è il riciclaggio di organuli vecchi.
+
+Le cellule vegetali invece di lisosomi contengono un vacuolo, che ha tante delle stesse funzioni.
+
+#### Perossisomi
+Sono degli piccoli organuli contenenti enzimi per smaltire sostanze tossiche prodotte durante certe reazioni cellulari. Quasi tutte le cellule eucariote ne hanno.
+
+![Struttura di un perossisoma](perossisoma.webp)
+
+#### Vacuoli
+Sono degli organuli solitamente molto grandi che si trovano più frequentemente nelle cellule vegetali. Contengono acqua e sostanze disciolte all'interno. Hanno diversi funzioni fra cui: accumulo, cioè vengono usati per conservare prodotti di scarto al momento non utili, sostegno, fanno gonfiare la cellula visto la loro grandezza, causando pressione sulla parete cellulare, che nelle piante significa dare una forma eretta alla pianta, riproduzione, possono contenere pigmenti che agiscono da segnalatori sessuali, e digestione, possono anche contenere enzimi che possono idrolizzare le proteine.
+
+I vacuoli contrattili sono usati per regolare quanta acqua è presente nel citoplasma.
+
+![Esempio di vacuolo](vacuolo.webp)
+
+#### Plastidi
+I *plastidi* sono organuli presenti solamente nelle cellule delle piante. Ne esistono vari tipi ma i più importanti sono i *cromoplasti* (a), *leucoplasti* (b), e *cloroplasti* (c).
+
+![Diversi plastidi](plastidi.webp)
+
+I cloroplasti contengono la *clorofilla*, un pigmento verde usato per la fotosintesi. Attraverso la fotosintesi la cellula produce glucosio, la fonte primaria di energia nella pianta. Il cloroplasto è protetto da una doppia membrana e contiene DNA circolare (per produrre RNA per produrre proteine del cloroplasto). Hanno anche un sistema di membrane interne che formano delle specie di pila di dischi. Le pile vengono detti *grani* e i dischi *tilacoidi*. Il liquido presente all'interno del colorplasto viene chiamato *stroma*. Le membrane oltre ad organizzare il colorplasto agiscono come protezione contro le luci ultraviolette.
+
+![Cloroplasti](cloroplasti.webp)
+
+I cromoplasti contengono pigmenti rossi, arancioni, o gialli, e danno il colore alla frutta e ai fiori per la comunicazione con altri viventi come insetti.
+
+I leucoplasti invece sono usati per accumulare amidi (*amidoplasti*), e lipidi (*lipidoplasti*), si trovano primariamente nelle parti non fotosintetiche della pianta come le radici.
+
+#### Mitocondri
+I *mitocondri* sono degli organulli che demoliscono nutrienti come il glucosio e lo trasformano in energia utilizzabile dalla cellula, cioè ATP e NADH. L'ATP è formato da una base azotata legata a una molecola di ribosio. La sua produzione si chiama *respirazione cellulare*. I mitocondri sono presenti in tutte le cellule e sono generalmente di dimensioni abbastanza piccole. In una cellula ci possono essere tanti mitocondri piccoli o uno grande.
+
+Sono avvolti da una membrana esterna protettiva, e contengono anche una membrana interna, che è avvolta su se stessa, e perciò ha una superficie molto più grande rispetta a quella esterna, i ripiegamenti sono regolari e vengono chiamati *creste*. La membrana interna è molto selettiva nel cosa può uscire o entrare. Dentro alla membrana si trovano anche molti complessi proteici, DNA (circolare, come nei batteri, infatti si considera che il mitocondrio precedentemente poteva essere un batterio), e ribosomi, usati per la respirazione cellulare. Gli spazi fra i ripiegamenti della membrana interna sono chiamati *matrici mitocondriali*.
+
+![Struttura di un mitocondrio](mitocondrio.webp)
+
+Una cosa interessante dei mitocondri è il fatto che non vengono creati durante la divisione cellulare, ma riproducono da soli come dei batteri, e i primi mitocondri che abbiamo sono di origine materna. [Vedi teoria endosimbiotica](#Origine-delle-cellule)
+
+## Movimento e Sostengo delle Cellule
+Il *citoscheletro* nelle cellule è la struttura che le da un forma senza dover contare su una parete cellulare. Ha diversi compiti, tra cui contribuire al movimento della cellula, spostare organuli e sostanze all'interno del citoplasma, facendogli reagire, e possono modificare la forma di una cellula.
+
+![Esempio di citoscheletro](citoscheletro.webp)
+
+Il citoscheletro è formato da *microfilamenti* fatti di *actina*, sono fini ma lunghi. Questi microfilamenti possono formare reti, fasci, o essere indipendenti.
+
+Le cellule contengono anche i *filamenti intermedi*, sono i più robusti fra i filamenti e le loro funzioni principali sono di ancorare al posto le strutture cellulari e aiutare la cellula a resistere tensione esterna.
+
+Contengono anche *microtubuli*, che sono naturalmente come dei piccoli tubi. Anche loro sono usate nello scheletro interno ma sono anche usati per lo spostamento delle *proteine motrici*, che trasportano materiale e organuli all'interno della cellula. Formano anche le *ciglia* e i *flagelli*. Sono formati da una proteina chiamata *tubulina*.
+
+![Diversi filamenti](filamenti.webp)
+
+Molte cellule hanno anche delle ciglia o flagelli, sono delle strutture usate per lo spostamento delle cellule. Oltre allo spostamento *amoebico*, quando la cellula si spostando modificando la sua struttura con l'utilizzo del citoscheletro, si possono anche spostare usando i flagelli come delle fruste. Le ciglia invece sono essenzialmente dei flagelli piccoli. Si possono trovare su parti diversi della cellula e possono girare la cellula in qualsiasi direzione.
+
+![Movimento amoeba](amoeba.gif)
+
+![Moviemento flagella](flagella.gif)
+
+## Materiale genetico
+Conservare materiale genetico non è facile. Deve essere al sicuro, compatto, ma anche facilmente raggiungibile. Per questo il materiale genetico conservato ha una forma abbastanza complessa.
+
+Prima il DNA viene avvolto su degli *istoni*, che sono essenzialmente delle piccole palline di proteine. Questi insieme vengono a formare delle strutture che sono come delle collanine di perle. Queste perle si chiamano *nucleosomi*. I nucleosomi poi vengono compattati ancora di più, formando la *cromatina*, che è il modo in cui solitamente viene conservato il DNA. Quando però la cromatina deve essere trasportato, viene impacchettato in cromosomi, che assumono una forma X o Y nel caso degli eucarioti, e una forma circolare nel caso dei procarioti. Questo processo si chiama *supercoiling*.
+
+![Schema dello supercoiling](supercoiling.webp)
+
+![Cromosoma circolare](cromosoma_circolare.webp)
+
+![Cromosoma eucariote](cromosoma_eucariote.webp)
+
+## Origine delle cellule
+La seguente è la teoria dell'endosimbiosi, la teoria più comune per la formazione delle cellule nella terra antica:
+
+Sappiamo che la vita ebbi origine nell'acqua e siamo riusciti a generare membrane ricreando le condizioni della terra antica. Queste membrane si chiamano *protocellule*, anche se in realtà non sono cellule vere e proprie.
+
+Dopo le protocellule sono entrati in scena i procarioti, risultando da sostanze casuali che entravano nelle protocellule. Gli eucarioti invece erano sviluppate da procarioti che entravano in protocellule, formando complessi di procarioti in *simbiosi* (dipendenza del uno sul altro). Con il crescere delle dimensioni delle cellule doveva anche aumentare la superficie, e questo si faceva ripiegando la membrana su se stessa, formando il sistema di membrane interne moderno.
+
+Si pensa che nel passato i cloroplasti e i mitocondri erano dei batteri indipendenti, visto la doppia membrana, presenza di certe sostanze proteiche che si trovano di solito solamente nei batteri, e presenza di materiale genetico e ribosomi (cromosomi circolari), infatti i cromosomi e mitocondri non si riproducono con il resto della cellula, ma come dei batteri.
+
+Infatti quando i cloroplasti vengono tolte dalle cellule non sono in grado di produrrle. Però i cloroplasti moderni non sono in grado di vivere indipendentemente.
+
+Un esperimento che è stato datto è quello di aver messo dei batteri dentro a delle amoebe, e quelle che sopravvissero, dopo qualche generazione, formarono un rapporto simbiotico con i batteri, e morirono quando furono tolte.
+
+![Schema endosimbiosi](endosimbiosi.webp)
