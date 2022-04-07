@@ -226,6 +226,7 @@ Le differenze più grandi fra *procarioti* e *eucarioti* sono le seguenti:
 | Non in grado di specializzarsi | In grado di specializzarsi |
 | Apparsi prima | Apparsi dopo |
 
+
 ## Procarioti
 I procarioti sono delimitati da una membrana detta *plasmatica*, composta da un doppio strato di fosfolipidi, all'interno però non contengono altre membrane. All'interno della membrana troviamo il citoplasma, in cui ci sono diverse zone con diversi funzioni. In una zona chiamata *nucleoide* si trova il DNA sotto forma di un'unica molecola circolare. Sono anche sparsi i *ribosomi*, aggregati di RNA e proteine che sentitetizzano altre proteine. Le diversi funzioni nel citoplasma sono divise per proprietà chimiche. Non c'è niente però che è in un posto statico, infatti tutto nella cellula è in un continuo movimento. La loro grandezza di solito è da 1 a 10 µm.
 
