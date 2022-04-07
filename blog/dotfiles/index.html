@@ -5,8 +5,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="color-scheme" content="light dark">
-    <title>My Blog</title>
-    <meta name="description" content="a place where I sometimes write stuff">
+    <title>Dotfiles</title>
+    <meta name="description" content="">
     <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png">
     <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png">
@@ -18,7 +18,7 @@
     <link rel="stylesheet" href="/css/base.css">
     <link rel="stylesheet" href="/css/header.css" />
 <link rel="stylesheet" href="/css/footer.css" />
-<link rel="stylesheet" href="/css/blog.css" />
+<link rel="stylesheet" href="/css/post.css" />
     
     
     
@@ -34,20 +34,37 @@
         <div class="icon">
             <a id="go-home" href="/" aria-label="home" ><i class="ri-user-6-line ri-xl"></i></a>
             <button id="color-toggle" aria-label="dark light mode switch"><i class="ri-moon-line ri-xl"></i></button>
+            <button id="toc-toggle" aria-label="table of content"><i class="ri-menu-2-line ri-xl"></i></button>
             </div>
     </div>
     <div id="progress-bar"></div>
 </header>
 
-<main>
-    <div class="title">Random</div>
-    <div class="post-list">
-        <a class="post" href="https:&#x2F;&#x2F;scratchx98.github.io&#x2F;blog&#x2F;dotfiles&#x2F;">
-            <span>Dotfiles</span>
-            <span class="date">2022-04-07</span>
-        </a>
-        </div>
+<div class="wrap">
+    <div class="blank"></div>
+    <main>
+        <div id="top"></div>
+        <article>
+            <h1>Dotfiles</h1>
+            <div id="post-info">
+                <div class="date">
+                    <span id="publish">2022-04-07</span>
+                    </div>
+                <div class="tags">
+                    <a class="tag" href="https://scratchx98.github.io/tags/config"><i class="ri-hashtag ri-sm"></i><span>Config</span></a>
+                </div>
+            </div>    
+
+            
+            
+            <p>Qtile and Void Linux</p>
+
+        </article>
     </main>
+    <aside > 
+        <a id="back-to-top" aria-label="back to top" href="#top"><i class="ri-arrow-up-s-line ri-2x"></i></a>
+    </aside>
+</div>
 <footer>
     <div class="copyright">
         ScratchX98
@@ -56,7 +73,11 @@
         <span>Powered by <a href="https://www.getzola.org/" target="_blank" rel='noreferrer noopener'>Zola</a> and <a href="https://github.com/isunjn/serene" target="_blank" rel='noreferrer noopener'>Serene</a></span>
     </div>
 </footer>
-<script src="/js/dark.js"></script><script src="/js/more.js"></script>
+<script src="/js/dark.js"></script>   
+<script src="/js/toc.js"></script>
+<script src="/js/progress.js"></script>
+<script src="/js/lightense.min.js"></script>
+<script src="/js/img.js"></script>
 </body>
 
 </html>

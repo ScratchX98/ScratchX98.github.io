@@ -1,7 +1,7 @@
 +++
 title = "Dotfiles"
 date = 2022-04-07
-draft = true
+draft = false
 
 [taxonomies]
 categories = ["Random"]
