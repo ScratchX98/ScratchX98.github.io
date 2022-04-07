@@ -1,0 +1,43 @@
+base_url = "https://scratchx98.github.io"
+
+title = "ScratchX98"
+description = "A simple personal website"
+
+theme = "serene"
+
+compile_sass = true
+minify_html = true
+
+generate_feed = false
+
+[markdown]
+highlight_code = true
+highlight_theme = "nord"
+render_emoji = true
+external_links_target_blank = true
+
+[extra]
+name = "ScratchX"
+id = "ScratchX98"
+bio = "Dart, Rustlang, and PHP"
+
+show_projects = true
+
+links = [
+    {name = "GitHub", icon = "ri-github-line", url = "https://github.com/ScratchX98"},
+    {name = "Reddit", icon = "ri-reddit-line", url = "https://reddit.com/u/scratchx98"},
+    {name = "Discord", icon = "ri-discord-line", url = "https://discordapp.com/users/620090816140148736"},
+    {name = "Email", icon = "ri-mail-line", url = "mailto:scratchx@gmx.com"},
+]
+
+footer_custom = "ScratchX98"
+footer_credits = true
+
+feed_in_blog_section = false
+
+blog_icon = "ri-quill-pen-line"          
+projects_icon = "ri-compasses-2-line"
+home_icon = "ri-user-6-line"
+rss_icon = "ri-rss-line"
+toc_icon = "ri-menu-2-line"
+notes_icon = "ri-booklet-line"
