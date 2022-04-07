@@ -8,12 +8,11 @@ categories = ["Italiano"]
 tags = ["scienze", "biologia"]
 
 [extra]
-lang = "en"
+lang = "it"
 toc = true
 math = false
 mermaid = false
 +++
-# Cellule
 > Prerequisti: Conoscenza della definizione della vita e ricerca della vita.
 
 Una spiegazione approffondita.
