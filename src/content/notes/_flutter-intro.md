@@ -14,7 +14,20 @@ math = false
 mermaid = false
 +++
 ## Introductory presentation
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTbztbS-0eJRn4YTO85yUb1-vze4tRocKWSfTgl9-My0NHpi1OHwPxjC2FITGnRlAR70CI6kUcVHY9a/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="398" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<div style="
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 61.25%;"
+>
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTbztbS-0eJRn4YTO85yUb1-vze4tRocKWSfTgl9-My0NHpi1OHwPxjC2FITGnRlAR70CI6kUcVHY9a/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height = "100%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" position="absolute" style="  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;"></iframe>
+</div>
 
 ## Running an app
  - Open [dartpad.dev](https://dartpad.dev)
