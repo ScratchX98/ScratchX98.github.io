@@ -27,10 +27,11 @@ links = [
     {name = "GitHub", icon = "ri-github-line", url = "https://github.com/ScratchX98"},
     {name = "Reddit", icon = "ri-reddit-line", url = "https://reddit.com/u/scratchx98"},
     {name = "Discord", icon = "ri-discord-line", url = "https://discordapp.com/users/620090816140148736"},
+    {name = "StackOverflow", icon = "ri-stack-overflow-line", url = "https://stackoverflow.com/users/17331482/scratchx"},
     {name = "Email", icon = "ri-mail-line", url = "mailto:scratchx@gmx.com"},
 ]
 
-footer_custom = "ScratchX98"
+footer_custom = "Made by ScratchX98"
 footer_credits = true
 
 feed_in_blog_section = false
