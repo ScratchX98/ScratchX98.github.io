@@ -66,15 +66,6 @@ Un terzo del cibo che produciamo viene scartato. Vermi convertono prodotti biolo
 Il vermecompostaggio viene fortemente usato commercialmente e anche su piccola scala.
 
 ## Lombrico
-Composti da segmenti anulari, ognuno conesso con due fasci di fibre muscolari, uno circolare e l'altro longitudinale. È pieno di organi di senso, un solo segmento ne ha 1900. Vengono usati per percepire tatto, gusto, e luce. Ha piccole appendici filamentose dette setole per fare presa sul terreno, come dei remi. Il lombrico misura quante setole ha in base alla carica elettrica attorno ad un segmento, e se la carica è debole ne cresce di più. Hanno un gaglio cerebrale che è dotato di una memoria limitata.
-
-La superficie viscida permette al lombrico di respirare. La cuticola è porosa e fa entrare aria e acqua, e rilasciare $CO_{2}$. Infatti se un lombrico si asciuga, soffoca. Possono però anche annegare e infatti quando piove escono dalle tane.
-
-Ne esistono oltre 1800 speci. Abitano ovunque tranne le aride più aride e fredde. I tre tipi principali sono quelli che riproducono velocemente e vivono in mezzo a materia in decomposizione, quelli che scavano gallerie orrizontali attraverso i strati superficiali del terreno, e quelli che perforano il terreno in verticale, questi ultimi hanno muscoli potentissimi. Nell'Australia si trovano i lombrichi più grandi.
-
-Aratrano la terra e la rendono più assorbente dall'acqua, dunque il terreno diventa più fertile. Fanno diventare anche certe sostanze più digeribili dalle piante. Vengono usati anche commercialmente per lo smaltimento dei rifiuti e come un alimento in certi paes.
-
-## Lombrico
 
 ![Lombrichi](/biodiversity/earthworms.webp)
 
