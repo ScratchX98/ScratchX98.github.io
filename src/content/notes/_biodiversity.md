@@ -23,6 +23,18 @@ Ricercare i vari microbiomi può essere utile per vari motivi:
  - Medicina e psichiatria.
  - Colonizzare altri pianeti.
 
+## Come si difendono le piante
+Le piante sono sempre in pericolo. Da micro funghi e batteri e batteri, afidi e bruchi, a grandi erbivori. Ecco alcune strategie che usano:
+ - Corteccia composta da lignina, che è difficile da penetrare. Foglie ricoperte di cere. Alcune piante hanno perfino le spine. Alcune piante hanno anche i tricomi, tipo micro spine, alcuni contengono anche sostanze irritanti.
+   ![Tricoma](/biodiversity/tricoma.webp)
+ - Alcune piante producono cristalli pieni di piccole spine che penetrano le bocce di erbivori. (raphide).
+     ![Raphide](/biodiversity/raphide.webp)
+ - La mimosa chiude le sue foglie con una carica elettrica che tira acqua da vacuoli.
+ - Invece di un sistema immunitario unico come negli animali, ogni cellula vegetale è in grado di proteggersi. Quando una pianta è in pericolo, la cera sulle foglie aumenta, i pori si chiudono, e le pareti cellulari si inspessiscono, e se dei batteri hanno invaso una parte della pianta, può autodistruggersi.
+ - Sostanze tossiche vengono rilasciate, in base al tipo dell'invasore.
+ - La pianta comunica con se stessa e con altri attraverso ormoni, composti aerodispersi, e cariche elettriche.
+ - Le piante di cotone attraggono vespe velenose quando vengono invase.
+
 ## Tardigrado
 
 ![Tardigrado](/biodiversity/tardigrade.webp)
@@ -76,3 +88,17 @@ La superficie viscida permette al lombrico di respirare. La cuticola è porosa e
 Ne esistono oltre 1800 speci. Abitano ovunque tranne le aride più aride e fredde. I tre tipi principali sono quelli che riproducono velocemente e vivono in mezzo a materia in decomposizione, quelli che scavano gallerie orrizontali attraverso i strati superficiali del terreno, e quelli che perforano il terreno in verticale, questi ultimi hanno muscoli potentissimi. Nell'Australia si trovano i lombrichi più grandi.
 
 Aratrano la terra e la rendono pi assorbente dall'acqua, dunque il terreno diventa più fertile. Fanno diventare anche certe sostanze più digeribili dalle piante. Vengono usati anche commercialmente per lo smaltimento dei rifiuti (riescono a consumare da 50-100% del loro peso corporeo ogni giorno e producono un fertilizzante ricco di sostanze nutritive) e come un alimento in certi paesi.
+
+## Muffa melmosa
+
+![Struttura della muffa](/biodiversity/slime-molds.webp)
+
+Sono delle amebe ricoperte di uno strato fino di melma. Sono in gradi di coordinare, e quando separati si riuniscono. Più amebe possono coordinare per creare dei pilastri per trasportarsi, anche se uccidendo quelli che stanno sotto.
+
+##
+
+60% dell'oceano è chiamato *oceano profondo*, arriva fino a 11000m. Questa zona, anche se fredda, buia e ad una pressione altissima, è piena di biodiversità. A 200m la fotosintesi non può essere più svolta. Per questo nel passato si pensava che la vita non poteva esisterci.
+
+I viventi qui sopravvivono grazie alla *neve marina*, ossia materiale organico che scende dalla superficie.
+
+Le condizioni estreme producono dei viventi frequentamente mostruosi ma anche molto interessanti, come la rana pescatrice. Usa la *bioluminescenza*, per attrarre preda e compagni e impaurire predatori, oppure per mimetizzarsi. 
