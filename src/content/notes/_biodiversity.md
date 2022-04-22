@@ -65,7 +65,7 @@ Questi scarebei sono utili per vari ragioni:
 
 ![Armadillidiide](/biodiversity/armadillidiide.webp)
 
-Armadillidiidae sono crostacea che inizialmente vivevano solo sotto acqua, ma ormai vivono ovunque. 300 milioni di anni fa si sono evoluti a sopravvivere anche fuori dall'acqua, infatti usano ancora i branchi per respirare, e gli serve comunque una piccola quantità di acqua per sopravvivere, essenzialmente non si sono ancora adattati completamente all'ambiente della terraferma. Infatti si trovano di solito in aree umide. Insetti normali respirano attraverso dei piccoli bucchini, connessi a tanti piccoli tubi che portano aria direttamente alle cellule, e questo sistema è molto più efficiente di quello degli armadillidiidae.
+Armadillidiidae sono crostacea che inizialmente vivevano solo sotto acqua, ma ormai vivono ovunque. 300 milioni di anni fa si sono evoluti a sopravvivere anche fuori dall'acqua, infatti usano ancora i branchi per respirare, e gli serve comunque una piccola quantità di acqua per sopravvivere, essenzialmente non si sono ancora adattati completamente all'ambiente della terraferma. Infatti si trovano di solito in aree umide. Insetti normali respirano attraverso dei piccoli buchini, connessi a tanti piccoli tubi che portano aria direttamente alle cellule, e questo sistema è molto più efficiente di quello degli armadillidiidae.
 
 Sono importanti per il nostro clima perché mangiano funghi che rilasciano $CO_{2}$.
 
