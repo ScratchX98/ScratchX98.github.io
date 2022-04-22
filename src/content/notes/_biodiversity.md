@@ -145,6 +145,22 @@ Alcuni però sono completamente in grado di sopravvivere anche con predatori, di
 
 Uccelli che si sono evoluti a non avere più ali che riescono a volare frequentamente gli usano per altre attività come nuotare, riscaldarsi, comunciare, o sterzare mentre corrono.
 
+## Pianta carnivora
+
+![Butterwort](/biodiversity/butterwort.webp)
+
+Le piante carnivore esistono in tutto il mondo, e si pensa che questa caratteristica si è evoluta nelle piante almeno 6 volte. Tendono a crescere in terreno acidico, che è povero di nutrienti.
+
+Una pianta usa un narcotico chiamato *conina*, quando agisce fa diventare debole e confusa la preda. La preda poi cade dentro a un imbuto dove annega, e dove il suo corpo viene digerito in una sostanza acquosa piena di batteri e enzimi.
+Un'altra è ricoperta di protrusioni appicicose, che quando sentono avvicinarsi della preda si arrotolano su di essa e la asfissano, poi le protrusioni si riaprono.
+
+Un'altra attrae piccoli batteri dentro alle sue radici, promettendo nutrienti. Si perdono in un labirinto di ciglie che gli conducano verso una cavità centrale che gli uccidono per mancanza di ossigeno e presenza di enzimi speciali.
+
+Un'altra che vive nell'acqua attrae animali come girini, e gli racchiude velocissimamente in delle vescicole, ma non completamente. Dopo aver digerito la parte che sta dentro ne prende un'altra e così via affinche non digerisce tutto l'animale.
+
+Un'altra ha delle porte spinate che racchiudono un insetto che decide di recarsi sopra.
+
+Un'altra ancora ha una sostanza appicosa sulle foglie che non lasciano scappare insetti che ci passano, però ha fiori completamente innocue per gli impollinatori.
 
 ## Fonti
  - [Microbioma](https://www.youtube.com/watch?v=MjhDRG-mQ7w)
@@ -160,4 +176,4 @@ Uccelli che si sono evoluti a non avere più ali che riescono a volare frequenta
  - [Avvoltoio](https://www.youtube.com/watch?v=1WIUuGCIfcc)
  - [Formica del fuoco](https://www.youtube.com/watch?v=RNdouBNrnM0)
  - [Uccello che non vola](https://www.youtube.com/watch?v=hRzRjHzvOts)
-
+ - [Pianta carnivora](https://scratchx98.github.io/notes/biodiversity/)
