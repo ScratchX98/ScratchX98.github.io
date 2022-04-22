@@ -95,10 +95,69 @@ Aratrano la terra e la rendono pi assorbente dall'acqua, dunque il terreno diven
 
 Sono delle amebe ricoperte di uno strato fino di melma. Sono in gradi di coordinare, e quando separati si riuniscono. Più amebe possono coordinare per creare dei pilastri per trasportarsi, anche se uccidendo quelli che stanno sotto.
 
-##
+## Vita nel oceano profondo
+
+![Rana pescatrice](/biodiversity/anglerfish.webp)
 
 60% dell'oceano è chiamato *oceano profondo*, arriva fino a 11000m. Questa zona, anche se fredda, buia e ad una pressione altissima, è piena di biodiversità. A 200m la fotosintesi non può essere più svolta. Per questo nel passato si pensava che la vita non poteva esisterci.
 
 I viventi qui sopravvivono grazie alla *neve marina*, ossia materiale organico che scende dalla superficie.
 
-Le condizioni estreme producono dei viventi frequentamente mostruosi ma anche molto interessanti, come la rana pescatrice. Usa la *bioluminescenza*, per attrarre preda e compagni e impaurire predatori, oppure per mimetizzarsi. 
+Le condizioni estreme producono dei viventi frequentamente mostruosi ma anche molto interessanti, come la rana pescatrice. Usa la *bioluminescenza*, per attrarre preda e compagni e impaurire predatori, oppure per mimetizzarsi. Alcuni viventi sono in grado di migrare fra diverse profondità, la maggioranza però sono costretti a stare in una sola zona, e devono riuscire a catturare il cibo prima che esce dalla loro zona.
+
+Di solito gli animali che vivono più in profondita sono più piccoli, e quelli più in superficie di solito sono più grandi, perché hanno più nutrienti. Però ci sono anche tante eccezzioni. Come granchi e calamari enormi, che superano i 15m. Si pensa che è a causa di alte concentrazioni di ossigeno e temperature fredde questi viventi riescono a vivere tantissimo e crescere enormi, ma questi viventi superficiano molto raramete, e abbiamo ancora 95% del oceano da esplorare.
+
+## Calamaro
+
+![Calamari](/biodiversity/squid.webp)
+
+Le loro dimensioni variano dai 14m a 2cm, e ne sono circa 500 di speci, formano il gruppo dei *cefalopodi*. Vivono in tutti gli oceani. Sono preda di balene, delfini, squali, uccelli, e altri calamari. Per questo hanno svilupatto capacità straordinarie per difendersi e vivono spesso in grandi gruppi.
+
+Per primo si affidono a nascondigli e i loro occhi grandi. Però quando è buio hanno un altro sistema sensoriale. Migliaia di cellule ciliate sulla testa e tentacoli, per determinare la direzione del flusso d'acqua. La sua pelle contiene cromatofori per mimetizzarsi. A cambiare delle flessioni dei muscoli ne mostra più o meno, per eliminare la sua sagoma, però questo non aiuta contro l'ecolocalizzazione. Un altra linea di difesa è l'inchiostro, formato da melanina e mucosa, che usano o per produre una nuvola che ostacola la visione del predatore, e per formare una sagoma simile alla sua. Per ultimo, se devono scappare velocmente, possono usare anche la propulsione per arrivare fino ai 40 km/h.
+
+Ci sono speci con caratteristiche uniche. Per esempio uno che ha un mantello dietro cui nascondersi, un altro che tira sabbia in aria, e un altro che riesce a brevemente uscire dall'acqua.
+
+## Avvoltoio
+
+![Avvoltoio](/biodiversity/vulture.webp)
+
+Pesano fino a 10kg e hanno un'apertura alare di circa 3 metri. Seguono un ordine gerarchico in base alla loro potenza, e questo determina quando riceveranno il loro turno per mangiare un carcasso. Alcune strategie interessanti che hanno è provare ad essere più piccoli e intelligenti, oppure di seguire altri avvoltoi per trovare qualcosa da mangiare. Sono utili al loro ecosistema perché non lasciano che carcassi contaminino la terra. Hanno un sistema gastrico molto acidico, per non contrarre malattie e digerire ossa, inoltre ripelle predatori quando vomitano.
+
+Però sono a rischio a causa di inurbamento, inquinamento, e bracconieri (avvelenano carcassi per non attrare attenzione). Questo porta alla diffusione di malattie.
+
+## Formica del fuoco
+
+![Regina e lavoratori](/biodiversity/fire-ant.webp)
+
+Nel periodo di giugno si riproducono le formiche del fuoco. Nel volo nuziale, i maschi alati prendono volo per la prima volta e muoiono. Le femmine poi vanno a formare le loro colonie proprie. Quando la femmina trova un posto adeguato si stacca le ali e scava un tunnel dove deposita le uova. Nutre se stessa e i suoi figlie con le uova non fertilizzate. Dopo 20 giorni sono pronti per lavorare. A quel punto comincia essenzialmente la battle royale. Altre colonie rubano larve alla regina. Se una regina si trova senza larve i suoi figlie la abbandonano, e l'unica possibilità di sopravvivenza che ha, è quella di prendere il posto di un'altra regina in un'altra colonia. Dopo anni quando la popolazione di una determinata colonia raggiunge i 23000, la regina comincia a produrre anche maschi e femmine alate, per cominciare nuove colonie (nel periodo estivo).
+
+Hanno anche delle tattiche di sopravvivenza interessanti come il veleno e l'impacchettarsi in delle palline per non annegare in alluvioni. Però dopo circa 8 anni la regina finisce la sperma e la colonia muore o viene conquistata da un'altra regina.
+
+## Uccello che non vola
+
+![Un kiwi Nuova Zelandese](/biodiversity/kiwi.webp)
+
+Esistono circa 60 speci di uccelli che non riescono a volare. Anche se i primi uccelli riuscivono a volare, indipendemente vari speci si sono evolute a non avere più quella necessità. Il vantaggio più grande di non volare è conservare energia, e riuscire a crescere più grande e pesante, permettendogli di sopravvivere con nutrienti scarsi.
+
+Dopo qualche generazione di un uccello che smette di volare, le sue ossa diventono più dense, le piume diventono soffici, le ali si riducono, e cambia la struttura schelettrica. Queste condizioni per esempio potrebbero esserci su una isola priva di predatori, infatti per questo con la colonizzazione e mescolamento di speci, tante di queste speci si sono estinte.
+
+Alcuni però sono completamente in grado di sopravvivere anche con predatori, diventando enormi, veloci, e potentissimi.
+
+Uccelli che si sono evoluti a non avere più ali che riescono a volare frequentamente gli usano per altre attività come nuotare, riscaldarsi, comunciare, o sterzare mentre corrono.
+
+
+## Fonti
+ - [Microbioma](https://www.youtube.com/watch?v=MjhDRG-mQ7w)
+ - [Come si difendono le piante](https://www.youtube.com/watch?v=Hja0SLs2kus)
+ - [Tardigrado](https://www.youtube.com/watch?v=IxndOd3kmSs)
+ - [Scarabeo stercorario](https://www.youtube.com/watch?v=uSTNyHkde08)
+ - [Armadillidiide](https://www.pbs.org/newshour/science/pill-bugs-emerged-sea-conquer-earth)
+ - [Verme rosso](https://www.youtube.com/watch?v=V8miLevRI_o)
+ - [Lombrico](https://wol.jw.org/it/wol/d/r6/lp-i/102003327)
+ - [Muffa melmosa](https://www.youtube.com/watch?v=bkVhLJLG7ug)
+ - [Vita nel oceano profondo](https://www.youtube.com/watch?v=U69LIr0OrNc)
+ - [Calamaro](https://www.youtube.com/watch?v=cpJlQo_65Ko)
+ - [Avvoltoio](https://www.youtube.com/watch?v=1WIUuGCIfcc)
+ - [Formica del fuoco](https://www.youtube.com/watch?v=RNdouBNrnM0)
+ - [Uccello che non vola](https://www.youtube.com/watch?v=hRzRjHzvOts)
+
