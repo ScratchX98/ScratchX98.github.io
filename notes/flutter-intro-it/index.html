@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="it">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="color-scheme" content="light dark">
+    <title>Introduzione a Flutter</title>
+    <meta name="description" content="">
+    <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono&family=Jost&display=swap" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
+    <link rel="stylesheet" href="/css/var.css">
+    <link rel="stylesheet" href="/css/base.css">
+    <link rel="stylesheet" href="/css/header.css" />
+<link rel="stylesheet" href="/css/footer.css" />
+<link rel="stylesheet" href="/css/post.css" />
+    
+    
+    
+</head>
+
+<body>
+    <script>if(localStorage.getItem('theme')=='dark'){document.body.classList.add('dark-mode');}</script>
+    
+<header >
+    <div class="top">
+        <a class="header blog" href="/notes"><i class="ri-booklet-line ri-2x"></i><span>Notes</span></a>
+        <a class="back" href="/"><i class="ri-arrow-left-s-line ri-1x"></i><span>Home</span></a>
+        <div class="icon">
+            <a id="go-home" href="/" aria-label="home" ><i class="ri-user-6-line ri-xl"></i></a>
+            <button id="color-toggle" aria-label="dark light mode switch"><i class="ri-moon-line ri-xl"></i></button>
+            <button id="toc-toggle" aria-label="table of content"><i class="ri-menu-2-line ri-xl"></i></button>
+            </div>
+    </div>
+    <div id="progress-bar"></div>
+</header>
+
+<div class="wrap">
+    <div class="blank"></div>
+    <main>
+        <div id="top"></div>
+        <article>
+            <h1>Introduzione a Flutter</h1>
+            <div id="post-info">
+                <div class="date">
+                    <span id="publish">2022-05-18</span>
+                    </div>
+                <div class="tags">
+                    <a class="tag" href="https://scratchx98.github.io/tags/programming"><i class="ri-hashtag ri-sm"></i><span>programming</span></a><a class="tag" href="https://scratchx98.github.io/tags/flutter"><i class="ri-hashtag ri-sm"></i><span>flutter</span></a><a class="tag" href="https://scratchx98.github.io/tags/cs"><i class="ri-hashtag ri-sm"></i><span>cs</span></a>
+                </div>
+            </div>    
+
+            
+            
+            <h2 id="presentazione-introduttiva">Presentazione introduttiva</h2>
+<div style="
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 61.25%;"
+>
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRoblU32tJhqyaJFMk5Llw2usV8mr-Qju3ekU1VTB15J0yrGm5ERAtj4qPDxNLWtdMy1adP2lNmIzh2/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height = "100%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" position="absolute" style="  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;"></iframe>
+</div>
+<h2 id="eseguendo-un-app">Eseguendo un app</h2>
+<ul>
+<li>Aprire <a rel="noopener" target="_blank" href="https://dartpad.dev">dartpad.dev</a></li>
+<li>Scrivere il seguente codice <em>boilerplate</em> (boilerplate significa che il codice sarà più o meno uguale, qualsiasi applicazione voi stiate creandoh)</li>
+</ul>
+<pre data-lang="dart" style="background-color:#282c34;color:#abb2bf;" class="language-dart "><code class="language-dart" data-lang="dart"><span>    </span><span style="font-style:italic;color:#5c6370;">// ignore_for_file: prefer_const_constructors
+</span><span>    </span><span style="font-style:italic;color:#5c6370;">// ignore_for_file: prefer_const_literals_to_create_immutables
+</span><span>    
+</span><span>    </span><span style="font-style:italic;color:#5c6370;">// importare il material UI library
+</span><span>    import </span><span style="color:#98c379;">&#39;package:flutter/material.dart&#39;</span><span>;
+</span><span>
+</span><span>    </span><span style="font-style:italic;color:#5c6370;">// la class principale che esegue la nostra funzione MyApp()
+</span><span>    </span><span style="color:#c678dd;">void </span><span style="color:#61afef;">main</span><span>() =&gt; </span><span style="color:#61afef;">runApp</span><span>(</span><span style="color:#e5c07b;">MyApp</span><span>());
+</span><span>
+</span><span>    </span><span style="font-style:italic;color:#5c6370;">// il widget personalizzato MyApp() che contiene MaterialApp()
+</span><span>    </span><span style="font-style:italic;color:#5c6370;">// non preocupatevi di questa parte
+</span><span>    </span><span style="color:#c678dd;">class </span><span style="color:#e5c07b;">MyApp </span><span style="color:#c678dd;">extends </span><span style="color:#e5c07b;">StatefulWidget</span><span> {
+</span><span>      </span><span style="color:#c678dd;">const </span><span style="color:#e5c07b;">MyApp</span><span>({</span><span style="color:#e5c07b;">Key</span><span>? key}) : </span><span style="color:#e06c75;">super</span><span>(key: key);
+</span><span>      </span><span style="color:#c678dd;">@override
+</span><span>      </span><span style="color:#e5c07b;">State</span><span>&lt;</span><span style="color:#e5c07b;">MyApp</span><span>&gt; </span><span style="color:#61afef;">createState</span><span>() =&gt; </span><span style="color:#e5c07b;">_MyAppState</span><span>();
+</span><span>    }
+</span><span>
+</span><span>    </span><span style="color:#c678dd;">class </span><span style="color:#e5c07b;">_MyAppState </span><span style="color:#c678dd;">extends </span><span style="color:#e5c07b;">State</span><span>&lt;</span><span style="color:#e5c07b;">MyApp</span><span>&gt; {
+</span><span>
+</span><span>      </span><span style="font-style:italic;color:#5c6370;">//Quest&#39;area serve a dichiarare variabili e funzioni
+</span><span>      </span><span style="font-style:italic;color:#5c6370;">//il codice che troverete qui non verrà esuguito nel build
+</span><span>
+</span><span>      </span><span style="color:#c678dd;">@override
+</span><span>      </span><span style="color:#e5c07b;">Widget </span><span style="color:#61afef;">build</span><span>(</span><span style="color:#e5c07b;">BuildContext</span><span> context) {
+</span><span>
+</span><span>        </span><span style="font-style:italic;color:#5c6370;">//Il codice che trovate qui VERRÀ eseguito nel build .
+</span><span>
+</span><span>        </span><span style="color:#c678dd;">return </span><span style="color:#e5c07b;">MaterialApp</span><span>(
+</span><span>          home: </span><span style="color:#e5c07b;">Scaffold</span><span>( </span><span style="font-style:italic;color:#5c6370;">//lo scaffold è come una cornice per la pagina
+</span><span>            appBar: </span><span style="color:#e5c07b;">AppBar</span><span>(
+</span><span>              </span><span style="font-style:italic;color:#5c6370;">//potete cambiare il titolo se volete
+</span><span>              title: </span><span style="color:#e5c07b;">Text</span><span>(</span><span style="color:#98c379;">&#39;My First App&#39;</span><span>),
+</span><span>            ),
+</span><span>            body: </span><span style="color:#e5c07b;">Column</span><span> (
+</span><span>              children: [
+</span><span>                </span><span style="font-style:italic;color:#5c6370;">// dentro a questa colonna si possono
+</span><span>                </span><span style="font-style:italic;color:#5c6370;">// aggiungere qualsiasi widget
+</span><span>              ],
+</span><span>            )
+</span><span>          ),
+</span><span>        );
+</span><span>      }
+</span><span>    }
+</span></code></pre>
+<ul>
+<li>Aggiungete qualsiasi widget che vorrete dopo le <code>[]</code> e dopo <code>children: </code></li>
+<li>Non dimenticatevi di mettere una <code>,</code> dopo ogni widget e dopo ogni parametro del widget</li>
+</ul>
+<h2 id="list-of-widgets-to-try">List of widgets to try</h2>
+<h3 id="text">Text</h3>
+<pre data-lang="dart" style="background-color:#282c34;color:#abb2bf;" class="language-dart "><code class="language-dart" data-lang="dart"><span style="color:#e5c07b;">Text</span><span>(</span><span style="color:#98c379;">&#39;Hello World&#39;</span><span>),
+</span></code></pre>
+<p>Un widget molto semplice. <a rel="noopener" target="_blank" href="https://api.flutter.dev/flutter/widgets/Text-class.html">Dettagli aggiuntivi</a></p>
+<h3 id="sized-box">Sized box</h3>
+<pre data-lang="dart" style="background-color:#282c34;color:#abb2bf;" class="language-dart "><code class="language-dart" data-lang="dart"><span style="color:#e5c07b;">SizedBox</span><span>(
+</span><span>  height: </span><span style="color:#d19a66;">20</span><span>,
+</span><span>  width: </span><span style="color:#d19a66;">100</span><span>,
+</span><span>),
+</span></code></pre>
+<p>Utile per creare degli spazi tra i widget. Per esempio:</p>
+<pre data-lang="dart" style="background-color:#282c34;color:#abb2bf;" class="language-dart "><code class="language-dart" data-lang="dart"><span style="color:#e5c07b;">Text</span><span>(</span><span style="color:#98c379;">&#39;One&#39;</span><span>),
+</span><span style="color:#e5c07b;">SizedBox</span><span>(
+</span><span>  height: </span><span style="color:#d19a66;">20</span><span>,
+</span><span>),
+</span><span style="color:#e5c07b;">Text</span><span>(</span><span style="color:#98c379;">&#39;Two&#39;</span><span>),
+</span></code></pre>
+<p>Creerà uno spazio di 20 pixel tra <code>One</code> e <code>Two</code>. <a rel="noopener" target="_blank" href="https://api.flutter.dev/flutter/widgets/SizedBox-class.html">dettagli aggiuntivi</a></p>
+<h3 id="image">Image</h3>
+<pre data-lang="dart" style="background-color:#282c34;color:#abb2bf;" class="language-dart "><code class="language-dart" data-lang="dart"><span style="color:#e5c07b;">Image</span><span>.</span><span style="color:#61afef;">network</span><span>(</span><span style="color:#98c379;">&#39;https://flutter.github.io/assets-for-api-docs/assets/widgets/owl-2.jpg&#39;</span><span>),
+</span></code></pre>
+<p>Mostrerà un'immagina dall'Internet. Assicuratevi che il 'URL' dell'immagine finisce con un file immagine come <code>.png</code>, <code>.webp</code>, o <code>.jpg</code>. <a rel="noopener" target="_blank" href="https://api.flutter.dev/flutter/widgets/Image-class.html">dettagli aggiuntivi</a></p>
+<blockquote>
+<p>Nota: dentro a dartpad si possono prendere immagini solo da siti con CORS (cos'è per questo corso è irrelevante), ma essenzialmente significa che non si possono usare immagini a caso dall'internet (mentre in un app normale su android o ios per esempio funziona). Siti come <a rel="noopener" target="_blank" href="https://unsplash.org">unsplash</a> e <a rel="noopener" target="_blank" href="https://imgur.com">imgur</a> funzionano.</p>
+</blockquote>
+<h3 id="icon">Icon</h3>
+<pre data-lang="dart" style="background-color:#282c34;color:#abb2bf;" class="language-dart "><code class="language-dart" data-lang="dart"><span style="color:#e5c07b;">Icon</span><span>(</span><span style="color:#e5c07b;">Icons</span><span>.thumb_up),
+</span></code></pre>
+<p>Mostrerà un'icona. Un'intera lista di icone di material usabili può essere trovato <a rel="noopener" target="_blank" href="https://fonts.google.com/icons">qui</a>. Sotto la sezione android ha il nome che può essere incollata dentro all'app. <a rel="noopener" target="_blank" href="https://api.flutter.dev/flutter/widgets/Icon-class.html">dettagli aggiuntivi</a></p>
+<h3 id="divider">Divider</h3>
+<pre data-lang="dart" style="background-color:#282c34;color:#abb2bf;" class="language-dart "><code class="language-dart" data-lang="dart"><span style="color:#e5c07b;">Divider</span><span>(),
+</span></code></pre>
+<p>Un widget molto semplice per disegnare una linea sottile tra due widget. <a rel="noopener" target="_blank" href="https://api.flutter.dev/flutter/material/Divider-class.html">dettagli aggiuntivi</a></p>
+<h3 id="button">Button</h3>
+<pre data-lang="dart" style="background-color:#282c34;color:#abb2bf;" class="language-dart "><code class="language-dart" data-lang="dart"><span style="color:#e5c07b;">ElevatedButton</span><span>(
+</span><span>  child: </span><span style="color:#e5c07b;">Text</span><span>(</span><span style="color:#98c379;">&#39;Click me!&#39;</span><span>), </span><span style="font-style:italic;color:#5c6370;">//potrebbe anche essere un&#39;icona per esempio
+</span><span>  onPressed: () {
+</span><span>    </span><span style="font-style:italic;color:#5c6370;">//Codice da eseguire quando viene premuto il tasto qui
+</span><span>    </span><span style="color:#61afef;">print</span><span>(</span><span style="color:#98c379;">&#39;Button has been clicked&#39;</span><span>);
+</span><span>  },
+</span><span>),
+</span></code></pre>
+<p>Un pulsante semplice, con una funzione <code>onPressed</code> che viene eseguita quando il pulsante è premuto. <a rel="noopener" target="_blank" href="https://api.flutter.dev/flutter/material/ElevatedButton-class.html">dettagli aggiuntivi</a></p>
+<h3 id="text-field">Text field</h3>
+<pre data-lang="dart" style="background-color:#282c34;color:#abb2bf;" class="language-dart "><code class="language-dart" data-lang="dart"><span style="color:#e5c07b;">TextField</span><span>(
+</span><span>  onChanged: (value) {
+</span><span>    print (</span><span style="color:#98c379;">&#39;This value has been inserted: $</span><span style="color:#e06c75;">value</span><span style="color:#98c379;">&#39;</span><span>);
+</span><span>    </span><span style="font-style:italic;color:#5c6370;">//assegniamo una variabile stringa all&#39;input
+</span><span>    </span><span style="font-style:italic;color:#5c6370;">//ma dobbiamo usare setState per aggiornare in
+</span><span>    </span><span style="font-style:italic;color:#5c6370;">//tempo reale l&#39;app
+</span><span>    setState ((){
+</span><span>      input = value;
+</span><span>    });
+</span><span>  },
+</span><span>),
+</span></code></pre>
+<p>Un text field è dove un input dell'utente è letto dalla nostra applicazione. Questo input potrebbe poi essere per esempio assagnato ad una variabile. <a rel="noopener" target="_blank" href="https://api.flutter.dev/flutter/material/TextField-class.html">dettagli aggiuntivi</a></p>
+<h3 id="row-e-column">Row e Column</h3>
+<pre data-lang="dart" style="background-color:#282c34;color:#abb2bf;" class="language-dart "><code class="language-dart" data-lang="dart"><span style="font-style:italic;color:#5c6370;">//widget disposti orizzontalmente
+</span><span style="color:#e5c07b;">Row</span><span>(
+</span><span>  children: [
+</span><span>    </span><span style="font-style:italic;color:#5c6370;">//widget qui
+</span><span>  ],
+</span><span>),
+</span><span>
+</span><span style="font-style:italic;color:#5c6370;">//widget disposti verticalmente
+</span><span style="color:#e5c07b;">Column</span><span>(
+</span><span>  children: [
+</span><span>    </span><span style="font-style:italic;color:#5c6370;">//widget qui
+</span><span>  ],
+</span><span>),
+</span></code></pre>
+<p>Row e Column sono usati per creare liste di widgets, rispettivamente orizontalmente e verticalmente. <a rel="noopener" target="_blank" href="https://api.flutter.dev/flutter/widgets/Row-class.html">dettagli aggiuntivi sul Row</a>, <a rel="noopener" target="_blank" href="https://api.flutter.dev/flutter/widgets/Column-class.html">dettagli aggiuntivi su Column</a>.</p>
+<h2 id="esempio">Esempio</h2>
+<p>Questo è un esempio di cosa potete fare con questi widget, questa è un'app semplice che chiede un nome e lo saluta:</p>
+<pre data-lang="dart" style="background-color:#282c34;color:#abb2bf;" class="language-dart "><code class="language-dart" data-lang="dart"><span style="font-style:italic;color:#5c6370;">// ignore_for_file: prefer_const_constructors
+</span><span style="font-style:italic;color:#5c6370;">// ignore_for_file: prefer_const_literals_to_create_immutables
+</span><span>
+</span><span style="font-style:italic;color:#5c6370;">//importare il material UI library
+</span><span style="color:#c678dd;">import </span><span style="color:#98c379;">&#39;package:flutter/material.dart&#39;</span><span>;
+</span><span>
+</span><span style="font-style:italic;color:#5c6370;">// la class principale che esegue la nostra funzione MyApp()
+</span><span style="color:#c678dd;">void </span><span style="color:#61afef;">main</span><span>() =&gt; </span><span style="color:#61afef;">runApp</span><span>(</span><span style="color:#e5c07b;">MyApp</span><span>());
+</span><span>
+</span><span style="font-style:italic;color:#5c6370;">// il widget personalizzato MyApp() che contiene MaterialApp() widget
+</span><span style="font-style:italic;color:#5c6370;">// non preocupatevi di questa parte
+</span><span style="color:#c678dd;">class </span><span style="color:#e5c07b;">MyApp </span><span style="color:#c678dd;">extends </span><span style="color:#e5c07b;">StatefulWidget</span><span> {
+</span><span>  </span><span style="color:#c678dd;">const </span><span style="color:#e5c07b;">MyApp</span><span>({</span><span style="color:#e5c07b;">Key</span><span>? key}) : </span><span style="color:#e06c75;">super</span><span>(key: key);
+</span><span>
+</span><span>  </span><span style="color:#c678dd;">@override
+</span><span>  </span><span style="color:#e5c07b;">State</span><span>&lt;</span><span style="color:#e5c07b;">MyApp</span><span>&gt; </span><span style="color:#61afef;">createState</span><span>() =&gt; </span><span style="color:#e5c07b;">_MyAppState</span><span>();
+</span><span>}
+</span><span>
+</span><span style="color:#c678dd;">class </span><span style="color:#e5c07b;">_MyAppState </span><span style="color:#c678dd;">extends </span><span style="color:#e5c07b;">State</span><span>&lt;</span><span style="color:#e5c07b;">MyApp</span><span>&gt; {
+</span><span>  </span><span style="font-style:italic;color:#5c6370;">//Questa è un&#39;area per dichiarare variabili e funzioni
+</span><span>  </span><span style="font-style:italic;color:#5c6370;">//il codice non verrà eseguito al build
+</span><span>
+</span><span>  </span><span style="color:#e5c07b;">String</span><span>? name; </span><span style="font-style:italic;color:#5c6370;">//variabile che contiene l&#39;input del TextField
+</span><span>
+</span><span>  </span><span style="color:#c678dd;">@override
+</span><span>  </span><span style="color:#e5c07b;">Widget </span><span style="color:#61afef;">build</span><span>(</span><span style="color:#e5c07b;">BuildContext</span><span> context) {
+</span><span>    </span><span style="font-style:italic;color:#5c6370;">//il codice verrà eseguito al build
+</span><span>
+</span><span>    </span><span style="color:#c678dd;">return </span><span style="color:#e5c07b;">MaterialApp</span><span>(
+</span><span>      home: </span><span style="color:#e5c07b;">Scaffold</span><span>(
+</span><span>        </span><span style="font-style:italic;color:#5c6370;">//scaffold è come una cornice per l&#39;app
+</span><span>        appBar: </span><span style="color:#e5c07b;">AppBar</span><span>(
+</span><span>          title: </span><span style="color:#e5c07b;">Text</span><span>(</span><span style="color:#98c379;">&#39;App per saluti&#39;</span><span>),
+</span><span>        ),
+</span><span>        body: </span><span style="color:#e5c07b;">Column</span><span>(
+</span><span>          children: [
+</span><span>            </span><span style="color:#e5c07b;">Text</span><span>(</span><span style="color:#98c379;">&#39;Benvenuti!&#39;</span><span>),
+</span><span>            </span><span style="color:#e5c07b;">SizedBox</span><span>(height: </span><span style="color:#d19a66;">10</span><span>),
+</span><span>            </span><span style="color:#e5c07b;">Text</span><span>(</span><span style="color:#98c379;">&#39;Nome:&#39;</span><span>),
+</span><span>            </span><span style="color:#e5c07b;">TextField</span><span>(
+</span><span>              onChanged: (value) {
+</span><span>                </span><span style="font-style:italic;color:#5c6370;">//setState è usato per aggiornare l&#39;app dinamicamente
+</span><span>                </span><span style="color:#61afef;">setState</span><span>(() {
+</span><span>                  name = value; </span><span style="font-style:italic;color:#5c6370;">//assegna il valore dell&#39;input a nome
+</span><span>                });
+</span><span>              },
+</span><span>            ),
+</span><span>            </span><span style="color:#e5c07b;">SizedBox</span><span>(height: </span><span style="color:#d19a66;">20</span><span>),
+</span><span>            </span><span style="font-style:italic;color:#5c6370;">//mostra il nome inserito,
+</span><span>            </span><span style="font-style:italic;color:#5c6370;">//aggiungendo $ fa si che ti mostra il valore
+</span><span>            </span><span style="font-style:italic;color:#5c6370;">//della variabile
+</span><span>            </span><span style="color:#c678dd;">if</span><span>(name != </span><span style="color:#d19a66;">null</span><span>)</span><span style="color:#e5c07b;">Text</span><span>(</span><span style="color:#98c379;">&#39;Ciao $</span><span style="color:#e06c75;">name</span><span style="color:#98c379;">!&#39;</span><span>), 
+</span><span>          ],
+</span><span>        )
+</span><span>      ),
+</span><span>    );
+</span><span>  }
+</span><span>}
+</span></code></pre>
+<h2 id="meteo">Meteo</h2>
+<p>Ecco l'app per il meteo che creeremo assieme oggi: <a rel="noopener" target="_blank" href="https://gist.github.com/ScratchX98/7f1ce873f59017a42d1ae5b2491bac67">App</a></p>
+
+        </article>
+    </main>
+    <aside > 
+        <nav>
+            <ul>
+                <li>
+                    <a class="toc-h2" href="#presentazione-introduttiva">Presentazione introduttiva</a>
+                </li>
+                <li>
+                    <a class="toc-h2" href="#eseguendo-un-app">Eseguendo un app</a>
+                </li>
+                <li>
+                    <a class="toc-h2" href="#list-of-widgets-to-try">List of widgets to try</a>
+                    <ul>
+                        <li>
+                            <a class="toc-h3" href="#text">Text</a>
+                        </li>
+                        <li>
+                            <a class="toc-h3" href="#sized-box">Sized box</a>
+                        </li>
+                        <li>
+                            <a class="toc-h3" href="#image">Image</a>
+                        </li>
+                        <li>
+                            <a class="toc-h3" href="#icon">Icon</a>
+                        </li>
+                        <li>
+                            <a class="toc-h3" href="#divider">Divider</a>
+                        </li>
+                        <li>
+                            <a class="toc-h3" href="#button">Button</a>
+                        </li>
+                        <li>
+                            <a class="toc-h3" href="#text-field">Text field</a>
+                        </li>
+                        <li>
+                            <a class="toc-h3" href="#row-e-column">Row e Column</a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a class="toc-h2" href="#esempio">Esempio</a>
+                </li>
+                <li>
+                    <a class="toc-h2" href="#meteo">Meteo</a>
+                </li>
+            </ul>
+        </nav>
+        <a id="back-to-top" aria-label="back to top" href="#top"><i class="ri-arrow-up-s-line ri-2x"></i></a>
+    </aside>
+</div>
+<footer>
+    <div class="copyright">
+        Made by ScratchX98
+    </div>
+    <div class="credits">
+        <span>Powered by <a href="https://www.getzola.org/" target="_blank" rel='noreferrer noopener'>Zola</a> and <a href="https://github.com/isunjn/serene" target="_blank" rel='noreferrer noopener'>Serene</a></span>
+    </div>
+</footer>
+<script src="/js/dark.js"></script>   
+<script src="/js/toc.js"></script>
+<script src="/js/progress.js"></script>
+<script src="/js/lightense.min.js"></script>
+<script src="/js/img.js"></script>
+</body>
+
+</html>
