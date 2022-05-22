@@ -45,5 +45,6 @@ notes_icon = "ri-booklet-line"
 
 blur_effect = false
 
+analytics = "google_analytics"
 [extra.google_analytics]
 id = "G-YTQDWNXD13"
