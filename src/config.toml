@@ -44,3 +44,6 @@ toc_icon = "ri-menu-2-line"
 notes_icon = "ri-booklet-line"
 
 blur_effect = false
+
+[extra.google_analytics]
+id = "G-YTQDWNXD13"
