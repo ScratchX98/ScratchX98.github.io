@@ -36,3 +36,5 @@ An interesting case of how the study of bacteria could be applied to the real wo
 - Genetic tinkering, which is usually very effective but also risky, in fact generally the genetically modified bacteria aren't let loose in the wild but are contained inside restricted areas like filters.
 - Bioaugmentation, which is essentially introducing already existing bacteria to a new area, but it's frequently also risky and ineffective, seeing as they mightn't be well adapted to their new environment, leading to large swaths of them dying out and only making the problem worse.
 - Boosting existing bacteria. This is generally the best option to go with, as modifications to the local ecosystem are kept to a minimum and it is very cost-effective.
+
+> [Source](https://www.popularmechanics.com/science/environment/a7176/how-microbes-will-clean-up-our-messes/)
