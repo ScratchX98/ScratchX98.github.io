@@ -13,3 +13,10 @@ desc = "a batteries-included study app made with Flutter"
 links = [
 	{name = "Github", url = "https://github.com/scratchx98/mindrev"},
 ]
+
+[[project]]
+name = "FerMe"
+desc = "a social media app for a small organization"
+links = [
+  {name = "Github", url = "https://github.com/FerMeLive"},
+]
